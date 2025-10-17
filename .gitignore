@@ -1,0 +1,47 @@
+# ------------------------------
+# PYTHON
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Byte-compiled / optimized files
+*.egg-info/
+*.egg
+build/
+dist/
+
+# ------------------------------
+# DJANGO
+# ------------------------------
+*.log
+db.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+# ------------------------------
+# ENVIRONMENT
+# ------------------------------
+# Even though you're using workon env, still ignore any env folder that may appear.
+env/
+venv/
+ENV/
+.venv/
+.env
+
+# ------------------------------
+# IDE / EDITOR FILES
+# ------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ------------------------------
+# SYSTEM FILES
+# ------------------------------
+.DS_Store
+Thumbs.db

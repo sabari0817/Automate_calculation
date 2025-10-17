@@ -1,0 +1,13 @@
+asgiref==3.9.1
+cffi==2.0.0
+colorama==0.4.6
+cryptography==46.0.2
+Django==5.2.6
+djangorestframework==3.16.1
+mysqlclient==2.2.7
+pillow==11.3.0
+pycparser==2.23
+qrcode==8.2
+sqlparse==0.5.3
+typing_extensions==4.15.0
+tzdata==2025.2
